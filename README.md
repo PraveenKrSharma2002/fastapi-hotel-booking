@@ -116,7 +116,7 @@ Through this project, I gained hands-on experience in:
 
 ## 🙏 Acknowledgement
 
-This project was developed as part of the **FastAPI Internship Training at Innomatics Research Labs**.
+This project was developed as part of the **Agentic AI Internship Training at Innomatics Research Labs**.
 
 ---
 
